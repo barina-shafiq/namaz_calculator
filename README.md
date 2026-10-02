@@ -12,19 +12,17 @@
 
 ## 📸 Screenshots & UI Preview
 
-> *Note: Place your screenshot image files in the `assets/screenshots/` or `docs/screenshots/` directory.*
-
-| 📱 **Daily Checklist** | 📅 **Namaz Calendar** | 🧭 **Qibla Compass** |
+| 📱 **Daily Checklist** | 📅 **Namaz Calendar** | 🧭 **Qibla Finder** |
 | :---: | :---: | :---: |
-| ![Daily Checklist](docs/screenshots/daily_checklist.png) | ![Namaz Calendar](docs/screenshots/namaz_calendar.png) | ![Qibla Compass](docs/screenshots/qibla_compass.png) |
+| <img src="ss/daily_checklist.jpeg" width="260" alt="Daily Checklist" /> | <img src="ss/calendar.jpeg" width="260" alt="Namaz Calendar" /> | <img src="ss/qibla_finder.jpeg" width="260" alt="Qibla Finder" /> |
 | Log prayers with status (Adaa, Qaza, Jamaat, Late) | Monthly timetable with Hijri & Gregorian dates | Real-time magnetic sensor compass to Makkah |
 
 <br>
 
-| 🧮 **Qaza Tracker** | 📊 **Statistics & Analytics** | ⚙️ **Settings & Calculation** |
-| :---: | :---: | :---: |
-| ![Qaza Tracker](docs/screenshots/qaza_tracker.png) | ![Statistics](docs/screenshots/statistics.png) | ![Settings](docs/screenshots/settings.png) |
-| Lifetime Qaza calculation & completion estimator | Streak counters, compliance charts & history | Multiple calculation conventions & juristic methods |
+| 📊 **Statistics & History** | ⚙️ **Settings & Calculation** |
+| :---: | :---: |
+| <img src="ss/statandhistroy.jpeg" width="260" alt="Statistics & History" /> | <img src="ss/settings.jpeg" width="260" alt="Settings & Calculation" /> |
+| Streak counters, compliance charts & historical logs | Multiple calculation conventions & juristic methods |
 
 ---
 
